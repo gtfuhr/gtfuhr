@@ -23,8 +23,9 @@
 * ![Linux](https://img.shields.io/badge/Linux-Operating%20System-lightgrey)
 * ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+### 🤝‍ 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![Profile views](https://gpvc.arturio.dev/gtfuhr) 
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
