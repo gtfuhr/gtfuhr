@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gtfuhr?label=Follow&style=social)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fuhr/)](https://www.linkedin.com/in/gabriel-tobias-fuhr-8b138813a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fuhr/)](https://www.linkedin.com/in/fuhr/)
 [![Gmail Badge](https://img.shields.io/badge/-gt.fuhr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gt.fuhr@gmail.com)](mailto:gt.fuhr@gmail.com)
 
 - 🔭 I’m currently working remotely with Machine Learning and Data Science.
