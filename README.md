@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gt.fuhr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gt.fuhr@gmail.com)](mailto:gt.fuhr@gmail.com)
 
 - 🔭 I’m currently working remotely with Machine Learning and Data Science.
-- 🌱 I’m currently learning Generative Adversarial Networks.
+- 🌱 I’m currently learning about large language models (NLP).
 
 ## ⚡ Technologies
 
