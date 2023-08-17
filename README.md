@@ -22,6 +22,3 @@
 * ![Docker](https://img.shields.io/badge/Docker-Containerization-brightgreen)
 * ![Linux](https://img.shields.io/badge/Linux-Operating%20System-lightgrey)
 * ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
